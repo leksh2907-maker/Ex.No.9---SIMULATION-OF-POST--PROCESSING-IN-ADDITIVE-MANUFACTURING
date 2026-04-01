@@ -46,6 +46,7 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+<img width="434" height="698" alt="Screenshot 2026-03-16 180444" src="https://github.com/user-attachments/assets/d7e827c3-2e93-4764-a156-9143aa786458" />
 
 ### Name:
 ### Register Number:
